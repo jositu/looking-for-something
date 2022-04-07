@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: auto;
+  padding: auto;
+  font-family: 'Source Code Pro', monospace;
+}
+
+header {
+  width: 100vw;
+  position: sticky;
+  top: 0;
+  background-color: #FFFFFF;
+  padding: 12px;
+}
+
+h1 {
+  margin: auto;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.main-content {
+  padding: 24px;
+  display: flex;
+  flex-flow: row wrap;
+  gap: 24px;
+}
+
+.lil-something {
+  border: solid 1px #000000;
+  background-color: #FFFFFF;
+  padding: 12px;
+  min-height: 60px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: 400;
+}
