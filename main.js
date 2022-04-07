@@ -30,6 +30,11 @@ function MainContent() {
       <Something title="React Bootstrap" url="https://react-bootstrap.github.io" />
       <Something title="ReactJS Docs" url="https://reactjs.org/docs/getting-started.html" />
       <Something title="W3 Tutorials" url="https://www.w3schools.com/howto/default.asp" />
+      <Something title="Storybook" url="https://storybook.js.org" />
+      <Something title="React Styleguidst" url="https://react-styleguidist.js.org" />
+      <Something title="responsive-navbar-react" url="https://www.npmjs.com/package/responsive-navbar-react" />
+      <Something title="react-burger-menu" url="https://www.npmjs.com/package/react-burger-menu" />
+      <Something title="npm docs" url="https://docs.npmjs.com/cli/v8/commands/npm-install" />
     </div>
   );
 }
